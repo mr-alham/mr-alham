@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about tech, and I'm all about codin
 ## Contact Me
 
 - Email: alham@duck.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alham-azhar)
-- Twitter: [Your Twitter Profile](https://twitter.com/alham__aa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alham-azhar)
+- Twitter: [Twitter](https://twitter.com/alham__aa)
 
 Feel free to connect with me or reach out if you have any questions or want to chat about tech-related topics!
 
