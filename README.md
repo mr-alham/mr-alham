@@ -124,7 +124,7 @@ Dive into learn more about my Skills,
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 20 June 2024 - To: 20 June 2024
 
 Total Time: 0 secs
