@@ -18,8 +18,8 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: mr-alham/Movie-Watch-List-Tracker
+        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: mr-alham/mr-alham
           #   SHOW_TITLE: true
           #   SECTION_NAME: waka
           #   BLOCKS: ░▒▓█
