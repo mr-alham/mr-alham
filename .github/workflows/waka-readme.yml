@@ -1,43 +1,64 @@
-name: Waka Readme
+# name: Waka Readme
 
+# on:
+#   push:
+#     branches: main
+#   pull_request:
+#     branches: main
+#   workflow_dispatch:
+#   schedule:
+#     # runs at 12 AM UTC (5:30 AM IST)
+#     - cron: "0 0 * * *"
+
+# jobs:
+#   update-readme:
+#     name: WakaReadme DevMetrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master # this action name
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#         #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         #   REPOSITORY: mr-alham/mr-alham
+#           SHOW_TITLE: true
+#           #   SECTION_NAME: waka
+#         #   BLOCKS: ->
+#           TIME_RANGE: all_time
+#           LANG_COUNT: 10
+#           SHOW_TIME: true
+#           SHOW_MASKED_TIME: true
+#           SHOW_TOTAL: true
+
+#         #   COMMIT_MESSAGE: "[automated] Updated waka-readme graph with new metrics"
+#         #   COMMITTER_NAME: "[bot]WakaGithubActions"
+
+#         #   SHOW_TITLE: true # optional
+#         #   SECTION_NAME: waka # optional
+#         #   #   BLOCKS: ░▒▓█ # optional
+#           CODE_LANG: rust # optional
+#         #   TIME_RANGE: all_time # optional
+#         #   LANG_COUNT: 10 # optional
+#         #   SHOW_TIME: true # optional
+#         #   SHOW_TOTAL: true # optional
+#         #   SHOW_MASKED_TIME: true # optional
+
+name: Update WakaTime Stats
 on:
-  push:
-    branches: main
-  pull_request:
-    branches: main
-  workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+          schedule:
+            # Runs every day at 00:00 UTC
+            - cron: '0 0 * * *'
+          workflow_dispatch: # Allow manual triggers
 
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        #   REPOSITORY: mr-alham/mr-alham
-          SHOW_TITLE: true
-          #   SECTION_NAME: waka
-        #   BLOCKS: ->
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TOTAL: true
-
-        #   COMMIT_MESSAGE: "[automated] Updated waka-readme graph with new metrics"
-        #   COMMITTER_NAME: "[bot]WakaGithubActions"
-
-        #   SHOW_TITLE: true # optional
-        #   SECTION_NAME: waka # optional
-        #   #   BLOCKS: ░▒▓█ # optional
-          CODE_LANG: rust # optional
-        #   TIME_RANGE: all_time # optional
-        #   LANG_COUNT: 10 # optional
-        #   SHOW_TIME: true # optional
-        #   SHOW_TOTAL: true # optional
-        #   SHOW_MASKED_TIME: true # optional
+        jobs:
+          update-readme:
+            runs-on: ubuntu-latest
+            steps:
+              - uses: actions/checkout@v3
+              - uses: athul/waka-readme@master
+                with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  SHOW_LINES_OF_CODE: true # Example: Customize as needed
+              - uses: stefanzweifel/git-auto-commit-action@v4
+                with:
+                  commit_message: "chore(stats): Update WakaTime stats"
+                  file_pattern: README.md
