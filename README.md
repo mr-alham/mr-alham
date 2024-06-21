@@ -112,7 +112,7 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_Formatter.svg" alt="go" width="25" height="25"/>
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="go" width="25" height="25"/>
 
-## Contacts & Socail 🤝:
+## Contacts & Socail 🤝
 
 * **Email**: [alham@duck.com](mailto:alham@duck.com)
 
@@ -122,8 +122,12 @@ Dive into learn more about my Skills,
 
 * **GitHub**: [mr-alham](https://github.com/mr-alham)
 
----
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## Summary
+
 <p align="center">
     &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
