@@ -125,11 +125,13 @@ Dive into learn more about my Skills,
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 June 2024 - To: 20 June 2024
+From: 20 June 2024 - To: 21 June 2024
 
-Total Time: 0 secs
+Total Time: 45 mins
 
-No activity tracked
+YAML       42 mins         ███████████████████████▒░   93.82 %
+Go         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
