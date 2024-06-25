@@ -112,15 +112,7 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_Formatter.svg" alt="go" width="25" height="25"/>
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="go" width="25" height="25"/>
 
-## Contacts & Socail 🤝
-
-* **Email**: [alham@duck.com](mailto:alham@duck.com)
-
-* **LinkedIn**: [alham-azhar](https://www.linkedin.com/in/alham-azhar/)
-
-* **Twitter(Now X)**: [@alham__aa](https://x.com/alham__aa)
-
-* **GitHub**: [mr-alham](https://github.com/mr-alham)
+## My Time Consumption
 
 <!--START_SECTION:waka-->
 
@@ -135,6 +127,16 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Contacts & Socail 🤝
+
+* **Email**: [alham@duck.com](mailto:alham@duck.com)
+
+* **LinkedIn**: [alham-azhar](https://www.linkedin.com/in/alham-azhar/)
+
+* **Twitter(Now X)**: [@alham__aa](https://x.com/alham__aa)
+
+* **GitHub**: [mr-alham](https://github.com/mr-alham)
 
 ## Summary
 
