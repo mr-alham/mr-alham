@@ -62,9 +62,7 @@ Dive into learn more about my Skills,
 
 ## Projects/Experience 🚀
 
-* **[Google-gemini-AI-CLI-App](https://github.com/mr-alham/Google-gemini-AI-CLI-App)**:
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Google-gemini-AI-CLI-App&theme=dracula)
+  [![Readme Card for Google-gemini-AI-CLI-App](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Google-gemini-AI-CLI-App&theme=dracula)](https://github.com/mr-alham/Google-gemini-AI-CLI-App)
 
   ![GitHub Created At](https://img.shields.io/github/created-at/mr-alham/Google-gemini-AI-CLI-App)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mr-alham/Google-gemini-AI-CLI-App?label=Total%20Commits)
@@ -81,9 +79,7 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" alt="go" width="25" height="25"/>
     &nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="go" width="25" height="25"/>
 
-* **[Video-Audio-downloader-by-ALHAM](https://github.com/mr-alham/Video-Audio-downloader-by-ALHAM)**:
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Video-Audio-downloader-by-ALHAM&theme=dracula)
+  [![Readme Card for Video-Audio-downloader](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Video-Audio-downloader-by-ALHAM&theme=dracula)](https://github.com/mr-alham/Video-Audio-downloader-by-ALHAM)
 
   ![GitHub Created At](https://img.shields.io/github/created-at/mr-alham/Video-Audio-downloader-by-ALHAM)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mr-alham/Video-Audio-downloader-by-ALHAM?label=Total%20Commits)
@@ -96,7 +92,7 @@ Dive into learn more about my Skills,
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="go" width="25" height="25"/>
   &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="go" width="25" height="25"/>
 
-* **[Movie-Watch-List-Tracker](https://github.com/mr-alham/Movie-Watch-List-Tracker)**:
+  [![Readme Card for Movie-Watch-List-Tarcker](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Movie-Watch-List-Tracker&theme=dracula)](https://github.com/mr-alham/Movie-Watch-List-Tracker)
 
   ![GitHub Created At](https://img.shields.io/github/created-at/mr-alham/Movie-Watch-List-Tracker)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mr-alham/Movie-Watch-List-Tracker?label=Total%20Commits)
