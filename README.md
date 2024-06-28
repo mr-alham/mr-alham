@@ -1,3 +1,5 @@
+![Top Banner](https://i.ibb.co/RBTmDZn/header-1.png)
+
 # 🚀 I am Alham, A DevOps enthusiast 🌟
 
  Welcome to my personal portfolio! I am Alham, a passionate and enthusiastic Developer driven by a passion for building and automating systems with a knack for Computer Networking, CyberSecurity, Cloud Solutions and more. Projects and Experiences. I have more than 4 years of experience in Linux, Especially with Manjaro linux. My expertise spans across various domains such as system administration, Cloud architecture as well as DevOps.
@@ -112,22 +114,6 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_Formatter.svg" alt="go" width="25" height="25"/>
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="go" width="25" height="25"/>
 
-## My Time Consumption
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 20 June 2024 - To: 27 June 2024
-
-Total Time: 45 mins
-
-YAML       42 mins         ███████████████████████▒░   93.82 %
-Go         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Contacts & Socail 🤝
 
 * **Email**: [alham@duck.com](mailto:alham@duck.com)
@@ -139,6 +125,11 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 * **GitHub**: [mr-alham](https://github.com/mr-alham)
 
 ## Summary
+
+<p align="center">
+  <img padding="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-alham&layout=compact&theme=dracula" alt="Alham's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-alham&hide=contribs&theme=dracula" alt="Alham's Github Stats>
+</p>
 
 <p align="center">
     &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
