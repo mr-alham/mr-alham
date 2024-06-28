@@ -114,7 +114,7 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_Formatter.svg" alt="go" width="25" height="25"/>
     &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="go" width="25" height="25"/>
 
-## Contacts & Socail 🤝
+## Contacts & Social 🤝
 
 * **Email**: [alham@duck.com](mailto:alham@duck.com)
 
