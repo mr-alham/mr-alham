@@ -64,6 +64,8 @@ Dive into learn more about my Skills,
 
 * **[Google-gemini-AI-CLI-App](https://github.com/mr-alham/Google-gemini-AI-CLI-App)**:
 
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Google-gemini-AI-CLI-App&theme=dracula)
+
   ![GitHub Created At](https://img.shields.io/github/created-at/mr-alham/Google-gemini-AI-CLI-App)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mr-alham/Google-gemini-AI-CLI-App?label=Total%20Commits)
   ![GitHub Release](https://img.shields.io/github/v/release/mr-alham/Google-gemini-AI-CLI-App)
@@ -80,6 +82,8 @@ Dive into learn more about my Skills,
     &nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="go" width="25" height="25"/>
 
 * **[Video-Audio-downloader-by-ALHAM](https://github.com/mr-alham/Video-Audio-downloader-by-ALHAM)**:
+
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-alham&repo=Video-Audio-downloader-by-ALHAM&theme=dracula)
 
   ![GitHub Created At](https://img.shields.io/github/created-at/mr-alham/Video-Audio-downloader-by-ALHAM)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mr-alham/Video-Audio-downloader-by-ALHAM?label=Total%20Commits)
@@ -126,9 +130,12 @@ Dive into learn more about my Skills,
 
 ## Summary
 
-<p align="center">
+<p >
   <img padding="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-alham&layout=compact&theme=dracula" alt="Alham's Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-alham&hide=contribs&theme=dracula" alt="Alham's Github Stats>
+</p>
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-alham&hide=contribs&theme=dracula&show_icons=true" alt="Alham's Github Stats">
 </p>
 
 <p align="center">
