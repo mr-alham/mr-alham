@@ -1,9 +1,3 @@
-<div align="center">
-
-  <img src="https://i.ibb.co/RBTmDZn/header-1.png" alt="Alham - Cybersecurity Engineer" width="100%"/>
-
-</div>
-
 <h1 align="center">Hi, I'm Alham! 👋</h1>
 
 <p align="center">
