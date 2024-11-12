@@ -52,7 +52,7 @@ Here’s a quick snapshot of my tech stack and expertise across development, clo
 
 </div>
 
----
+##
 
 <p align="center">
   "<b>The only way to do great work is to love what you do.</b>" - Steve Jobs.
